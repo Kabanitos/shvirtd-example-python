@@ -1,0 +1,10 @@
+schema.pdf
+README.md
+proxy.yaml
+LICENSE
+.env
+nginx/
+haproxy/
+Dockerfile.python
+.dockerignore
+compose.yaml
